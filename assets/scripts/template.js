@@ -2,7 +2,7 @@
     GENERAL CONFIGURATION
 ============================================= */
 window.MUSIC = {
-        'url': "https://pruthvigardenstudio.github.io/bhaumik_shivani/assets/music/song.webm",
+        'url': "https://pruthvigardenstudio.github.io/bhaumik_shivani/assets/music/song.mp3",
         'box': '#music-box'
     };
 // ---------- datetime to number ------------------------------
